@@ -15,7 +15,8 @@ This will start the application for testing, along with start the test runner
 
 ## Link to cypress documentation
 
-[Cypress Documentation](https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell)
+-[Cypress Documentation](https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell)
+-[Cypress Project Setup](https://docs.cypress.io/guides/dashboard/projects.html#Setup)
 
 # Angular project details if you need them
 
