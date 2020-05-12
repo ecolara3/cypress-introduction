@@ -2,13 +2,18 @@
 
 Run `npm install`
 
-# To start the cypress test runner (test suite)
+## To start the cypress test runner (test suite)
 
 Run `npm run cypress:test`
 
 This will start the application for testing, along with start the test runner
 
-# Angular Details if you need more help
+## Useful notes and benefits about Cypress
+
+- **Need to setup Cypress to run "cypress run" command, does not work by default without referencing the bin file. This is a nice to have because the documentation calls for just running "cypress run"**
+- **Do not close the test  window via the browser close button "X", it will cause connection issues. Use the "Stop" button in the test runner, it will close the browser window for you.**
+
+# Angular project details if you need them
 
 ### AngularTourOfHeros
 
