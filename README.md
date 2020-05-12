@@ -13,6 +13,10 @@ This will start the application for testing, along with start the test runner
 - **Need to setup Cypress to run "cypress run" command, does not work by default without referencing the bin file. This is a nice to have because the documentation calls for just running "cypress run"**
 - **Do not close the test  window via the browser close button "X", it will cause connection issues. Use the "Stop" button in the test runner, it will close the browser window for you.**
 
+## Link to cypress documentation
+
+[Cypress Documentation](https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell)
+
 # Angular project details if you need them
 
 ### AngularTourOfHeros
