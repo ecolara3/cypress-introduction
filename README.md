@@ -1,4 +1,12 @@
-# AngularTourOfHeros
+# Before you do anything, install packages
+
+Run `npm install`
+
+# To start the cypress test runner (test suite)
+
+Run `npm run cypress:test`
+
+## AngularTourOfHeros
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
 
