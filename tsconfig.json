@@ -1,6 +1,7 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+    "allowJs": true,
     "baseUrl": "./",
     "outDir": "./dist/out-tsc",
     "sourceMap": true,
@@ -17,8 +18,14 @@
     "lib": [
       "es2018",
       "dom"
+    ],
+    "types": [
+      "cypress"
     ]
   },
+  "include": [
+    "**/*.*"
+  ],
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
     "strictInjectionParameters": true
