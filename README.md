@@ -1,6 +1,8 @@
+# Cypress.io Example Build
+
 This is an example application to introduce someone to Cypress.io, the UI Testing framework that can be found [here](https://www.cypress.io/)
 
-# Before you do anything, install packages
+## Before you do anything, install packages
 
 Run `npm install`
 
